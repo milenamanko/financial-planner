@@ -15,7 +15,7 @@
     <description>Financial planner application using Spring Boot</description>
 
     <properties>
-        <java.version>8</java.version>
+        <java.version>11</java.version>
     </properties>
 
     <dependencies>
