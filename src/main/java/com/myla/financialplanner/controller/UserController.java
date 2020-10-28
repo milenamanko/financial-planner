@@ -1,4 +1,4 @@
-package com.myla.financialplanner.contoller;
+package com.myla.financialplanner.controller;
 
 import com.myla.financialplanner.model.User;
 import com.myla.financialplanner.repository.UserRepository;
