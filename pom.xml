@@ -15,9 +15,9 @@
     <description>Financial planner application using Spring Boot</description>
 
     <properties>
-        <maven.compiler.release>11</maven.compiler.release>
+        <java.version>11</java.version>
     </properties>
-
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
